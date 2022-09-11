@@ -2,11 +2,14 @@ import BreadCrumb from "./components/BreadCrumb";
 import Navigator from "./components/Navigator";
 import SearchInput from "./components/SearchInput";
 
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+
+function Home(){
+
+    return(
+        <div>
+
+        </div>
+    )
 }
 
-export default App;
+export default Home;
