@@ -7,7 +7,8 @@ function Home(){
 
     return(
         <div>
-
+            <Navigator currentElement = "Home" />
+            <SearchInput />
         </div>
     )
 }
